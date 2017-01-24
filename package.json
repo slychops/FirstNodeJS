@@ -1,0 +1,17 @@
+{
+  "name": "firstnodeproj",
+  "version": "1.0.0",
+  "description": "my first node",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.1.2"
+  },
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+
+  "author": "slychops",
+  "license": "ISC"
+}
