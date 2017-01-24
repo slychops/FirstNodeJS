@@ -1,0 +1,12 @@
+/*Custom CSS*/
+
+/*INSERT FONT FAMILY*/
+/*@font-face {
+    font-family: fontName;
+    src: url(fonts/fontName.woff);
+}*/
+
+html, body {
+	height: 100%;
+	width: 100%;
+}
